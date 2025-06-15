@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**rogkne/rogkne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :rocket: About
 
-Here are some ideas to get you started:
+I'm an Embedded Linux, Kernel Enginer and Open Source Developer with experience in the following topics:
+- Software Development: `Rust`, `C`, `C++` and `Python`
+- Embedded Linux: `Yocto`, `Buildroot` and `OpenWRT`
+- Real-time operating system: `FreeRTOS` and `RTEMS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# :writing_hand: I'm working on
+- [Cubic](https://github.com/cubic-vm/cubic), a lightweight CLI manager written in Rust for virtual machines.
+
+# :coffee: I have contribute to the following Open Source projects:
+- `OpenEmbedded` / `Yocto`
+- `U-Boot`
+- `Busybox`
+- `Linux`
+- `Ubuntu`
