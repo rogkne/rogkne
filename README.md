@@ -11,7 +11,7 @@ I'm an Embedded Linux, Kernel Enginer and Open Source Developer with experience 
 # :writing_hand: I'm working on
 - [Cubic](https://github.com/cubic-vm/cubic), a lightweight CLI manager written in Rust for virtual machines.
 
-# :coffee: I have contribute to the following Open Source projects:
+# :coffee: I contributed to the following Open Source projects:
 - `OpenEmbedded` / `Yocto`
 - `U-Boot`
 - `Busybox`
